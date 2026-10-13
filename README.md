@@ -46,7 +46,7 @@ Most of my work lives in private company repos, so this page is quieter than my 
 
 <p>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=jira" alt="Jira" title="Jira" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=trello" alt="Trello" title="Trello" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain.svg" alt="Trello" title="Trello" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" title="PyCharm" width="48" height="48" />
 </p>
@@ -56,7 +56,7 @@ Most of my work lives in private company repos, so this page is quieter than my 
 <p>
   <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=php" alt="PHP" title="PHP" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" title="PHP" width="48" height="48" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=codeigniter" alt="CodeIgniter" title="CodeIgniter" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=cs" alt="C#" title="C#" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" title=".NET" width="48" height="48" />

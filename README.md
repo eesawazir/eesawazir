@@ -64,7 +64,6 @@ Most of my work lives in private company repos, so this page is quieter than my 
 
 ### ⚡ Fun facts
 
-- I've rewritten the same barcode-scanning feature three times. The warehouse floor always finds the edge case.
 - My favourite kind of request: "Can this Excel sheet become a real system?"
 - Off the keyboard: table tennis, badminton, and padel (if there's a racket, I'm in), plus a good book.
 

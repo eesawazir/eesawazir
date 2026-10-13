@@ -47,7 +47,7 @@ Most of my work lives in private company repos, so this page is quieter than my 
 <p>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=jira" alt="Jira" title="Jira" width="48" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain.svg" alt="Trello" title="Trello" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/visual-studio-code/default.svg" alt="VS Code" title="VS Code" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" title="PyCharm" width="48" height="48" />
 </p>
 

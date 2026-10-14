@@ -2,7 +2,7 @@
 
 # Hi, I'm Eesa 👋
 
-Senior Software Engineer at Gicoh, based in Lahore, Pakistan. My work centres on backend development in Python, particularly business logic and system integrations, with JavaScript for client-side features.
+My work centres on backend development in Python, particularly business logic and system integrations, with JavaScript for client-side features.
 
 Most of my work lives in private company repos, so this page is quieter than my keyboard.
 
@@ -64,7 +64,6 @@ Most of my work lives in private company repos, so this page is quieter than my 
 
 ### ⚡ Fun facts
 
-- My favourite kind of request: "Can this Excel sheet become a real system?"
 - Off the keyboard: table tennis, badminton, and padel (if there's a racket, I'm in), plus a good book.
 
 ### 🌐 Let's connect

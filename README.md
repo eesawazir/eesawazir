@@ -49,6 +49,8 @@ Most of my work lives in private company repos, so this page is quieter than my 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain.svg" alt="Trello" title="Trello" width="48" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" title="PyCharm" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/claude/default.svg" alt="Claude" title="Claude" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/openai/light.svg" alt="ChatGPT" title="ChatGPT" width="48" height="48" />
 </p>
 
 #### Also worked with

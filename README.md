@@ -32,11 +32,11 @@ Most of my work lives in private company repos, so this page is quieter than my 
   <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" title="jQuery" width="48" height="48" />
 </p>
 
-#### Data & infrastructure
+#### Data & Infrastructure
 
 <p>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=mariadb" alt="MariaDB" title="MariaDB" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mysql.svg" alt="MySQL" title="MySQL" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" title="GitLab" width="48" height="48" />

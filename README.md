@@ -26,9 +26,9 @@ Most of my work lives in private company repos, so this page is quieter than my 
 #### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" title="jQuery" width="48" height="48" />
 </p>
 
